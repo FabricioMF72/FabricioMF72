@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**FabricioMF72/FabricioMF72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I´m Fabricio Murillo from Costa Rica!
 
-Here are some ideas to get you started:
+<p><em>I am a computer engineering student at <a href="https://www.tec.ac.cr/">Tecnologico de Costa Rica</a> 🤓</br>
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Fabricio = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java", "HTML", "CSS","Python", "C++"],
+  frontEnd: ["React", "Redux", "Bootstrap", "Jest", "Graphql"],
+  backEnd: ["NodeJs", "Mongoose", "Express", "Sequelize", "Graphql"],
+  dataBase: ["MongoDB", "MySql", "SqlServer"],
+  currentlyLearning: "Web Scraping",
+  hobbies: ["Gaming", "Gym", "Camping"]
+ }
+
+```
+## Get in touch
+
+- Twitter: https://www.instagram.com/fabricio_mflores/
+- Email: Fabriciomf72@gmail.com
+- Facebook: https://www.facebook.com/fabricio.murilloflores
+- LinkedIn: https://www.linkedin.com/in/fabricio-murillo-flores-4352a4126/
