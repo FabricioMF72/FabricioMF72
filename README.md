@@ -7,9 +7,9 @@
 ```js
 const Fabricio = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Java", "HTML", "CSS","Python", "C++"],
-  frontEnd: ["React", "Redux", "Bootstrap", "Jest", "Graphql"],
-  backEnd: ["NodeJs", "Mongoose", "Express", "Sequelize", "Graphql"],
+  code: ["Javascript", "Java", "HTML", "CSS","Python"],
+  frontEnd: ["angular", "React", "Redux", "Bootstrap", "Jest", "Graphql"],
+  backEnd: ["NodeJs", "Mongoose", "Express", "Sequelize", "Graphql","CouchDB/PouchDB"],
   dataBase: ["MongoDB", "MySql", "SqlServer"],
   currentlyLearning: "Web Scraping",
   hobbies: ["Gaming", "Gym", "Camping"]
