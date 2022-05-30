@@ -6,7 +6,6 @@
 
 ```js
 const Fabricio = {
-  pronouns: "He" | "Him",
   code: ["Javascript", "Java", "HTML", "CSS","Python"],
   frontEnd: ["angular", "React", "Redux", "Bootstrap", "Jest", "Graphql"],
   backEnd: ["NodeJs", "Mongoose", "Express", "Sequelize", "Graphql","CouchDB/PouchDB"],
